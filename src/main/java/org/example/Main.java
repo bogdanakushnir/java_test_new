@@ -6,6 +6,7 @@ public class Main {
     // sjdfghkdjhfgkj
     String newS ="";
     int i;
+        int ii; //todo: sjdfkj
 
     if(true==true){
       System.out.println(newS);
