@@ -5,11 +5,13 @@ public class Main {
     System.out.println("This is project 1");
     // sjdfghkdjhfgkj
     String newS ="";
+    String password = "qwerty";
     int i;
         int ii; //todo: sjdfkj
 
     if(true==true){
       System.out.println(newS);
     }
+    System.out.println(password);
   }
 }
