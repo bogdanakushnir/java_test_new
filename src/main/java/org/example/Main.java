@@ -6,6 +6,7 @@ public class Main {
     // sjdfghkdjhfgkj
     String newS ="";
     String password = "qwerty";
+    String password_new = "qwerty";
     int i;
         int ii; //todo: sjdfkj
 
