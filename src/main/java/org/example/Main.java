@@ -5,7 +5,7 @@ public class Main {
     System.out.println("This is project 1");
     // sjdfghkdjhfgkj
     String newS ="";
-    String password = "qwerty";
+    String password = "qwerty"; //dsfsdf
     int i;
         int ii; //todo: sjdfkj
 
